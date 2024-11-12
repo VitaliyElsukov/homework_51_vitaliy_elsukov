@@ -7,7 +7,4 @@ urlpatterns = [
     path('cat_status/', cat_status),
 
 
-
-
-    
 ]
